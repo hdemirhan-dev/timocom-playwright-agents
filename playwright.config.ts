@@ -9,6 +9,7 @@ export default defineConfig({
   reporter: [
     ['list'],
     ['html', { open: 'never', outputFolder: 'playwright-report' }],
+    ['json', { outputFile: 'playwright-report/report.json' }],
   ],
 
   use: {
@@ -18,7 +19,6 @@ export default defineConfig({
     viewport: { width: 1280, height: 800 },
     screenshot: 'only-on-failure',
     trace: 'on-first-retry',
-    // Ignore cookie consent storage state — we handle it via UC_UI in each test
     ignoreHTTPSErrors: false,
   },
 
