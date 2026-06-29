@@ -1,0 +1,95 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - link "LOGO-TIMOCOM" [ref=e4] [cursor=pointer]:
+        - /url: /
+      - navigation "Main navigation" [ref=e6]:
+        - list [ref=e7]:
+          - listitem [ref=e8]:
+            - button "Deutsch" [ref=e9] [cursor=pointer]
+            - text: 
+  - main [ref=e10]:
+    - generic [ref=e11]:
+      - form "Registration form" [ref=e16]:
+        - generic [ref=e17]:
+          - group [ref=e18]:
+            - heading "Werden Sie Teil eines der größten Transport- und Logistiknetzwerke Europas!" [level=1] [ref=e19]
+            - paragraph [ref=e21]: In zwei einfachen Schritten können Sie sich ganz unverbindlich registrieren.
+            - list [ref=e23]:
+              - listitem [ref=e24]:
+                - button "Frachtführer" [ref=e25] [cursor=pointer]:
+                  - img [ref=e27]
+                  - generic [ref=e29]: Frachtführer
+              - listitem [ref=e30]:
+                - button "Handel" [ref=e31] [cursor=pointer]:
+                  - img [ref=e33]
+                  - generic [ref=e35]: Handel
+              - listitem [ref=e36]:
+                - button "Spedition" [ref=e37] [cursor=pointer]:
+                  - img [ref=e39]
+                  - generic [ref=e44]: Spedition
+              - listitem [ref=e45]:
+                - button "KEP-Dienstleister (3,5 t)" [ref=e46] [cursor=pointer]:
+                  - img [ref=e48]
+                  - generic [ref=e50]: KEP-Dienstleister (3,5 t)
+              - listitem [ref=e51]:
+                - button "Produktion" [ref=e52] [cursor=pointer]:
+                  - img [ref=e54]
+                  - generic [ref=e56]: Produktion
+              - listitem [ref=e57]:
+                - button "Lagerhalter" [ref=e58] [cursor=pointer]:
+                  - img [ref=e60]
+                  - generic [ref=e62]: Lagerhalter
+              - listitem [ref=e63]:
+                - button "Entsorger" [ref=e64] [cursor=pointer]:
+                  - img [ref=e66]
+                  - generic [ref=e68]: Entsorger
+              - listitem [ref=e69]:
+                - button "Privatperson" [ref=e70] [cursor=pointer]:
+                  - img [ref=e72]
+                  - generic [ref=e74]: Privatperson
+          - text:  
+      - generic [ref=e84]:
+        - heading "Kontakt" [level=2] [ref=e85]
+        - paragraph [ref=e86]:
+          - text: +49 211 88 26 88 26
+          - text: +49 211 88 26 53 00
+        - paragraph [ref=e87]:
+          - link " salessupport@timocom.com" [ref=e88] [cursor=pointer]:
+            - /url: mailto:salessupport@timocom.com
+  - contentinfo [ref=e89]:
+    - generic [ref=e90]:
+      - navigation "Main footer navigation" [ref=e91]:
+        - link "Impressum  |" [ref=e92] [cursor=pointer]:
+          - /url: https://www.timocom.de/impressum
+          - text: Impressum
+          - generic [ref=e93]: 
+          - text: "|"
+        - link "Datenschutz  |" [ref=e94] [cursor=pointer]:
+          - /url: https://www.timocom.de/datenschutz
+          - text: Datenschutz
+          - generic [ref=e95]: 
+          - text: "|"
+        - link "Cookie-Einstellungen " [ref=e96] [cursor=pointer]:
+          - /url: "#uc-central-modal-show"
+          - text: Cookie-Einstellungen
+          - generic [ref=e97]: 
+      - generic "Social media links" [ref=e98]:
+        - generic [ref=e99]:
+          - link "" [ref=e100] [cursor=pointer]:
+            - /url: https://www.facebook.com/timocom.de
+            - generic [ref=e101]: 
+          - link "" [ref=e102] [cursor=pointer]:
+            - /url: https://www.youtube.com/user/TIMOCOM
+            - generic [ref=e103]: 
+          - link "" [ref=e104] [cursor=pointer]:
+            - /url: https://www.xing.com/pages/timocom
+            - generic [ref=e105]: 
+          - link "" [ref=e106] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/timocom-gmbh/
+            - generic [ref=e107]: 
+          - link "" [ref=e108] [cursor=pointer]:
+            - /url: https://www.instagram.com/timocom/
+            - generic [ref=e109]: 
+      - generic [ref=e110]: © TIMOCOM GmbH 2026. Alle Rechte vorbehalten
+  - text: 

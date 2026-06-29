@@ -1,0 +1,367 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - link "LOGO-TIMOCOM" [ref=e4] [cursor=pointer]:
+        - /url: /
+      - navigation "Main navigation" [ref=e6]:
+        - list "Categories" [ref=e7]:
+          - listitem [ref=e8]:
+            - link "Services" [ref=e9] [cursor=pointer]:
+              - /url: /services
+            - text: 
+          - listitem [ref=e10]:
+            - link "Ressourcen" [ref=e11] [cursor=pointer]:
+              - /url: /ressourcen
+            - text:  
+          - listitem [ref=e12]:
+            - link "Unternehmen" [ref=e13] [cursor=pointer]:
+              - /url: /unternehmen
+            - text:  
+          - listitem [ref=e14]:
+            - link "Support" [ref=e15] [cursor=pointer]:
+              - /url: /hilfe-center
+          - listitem [ref=e16]:
+            - link "Jetzt registrieren" [ref=e17] [cursor=pointer]:
+              - /url: /registrierung
+        - list [ref=e18]:
+          - listitem "Searchbar" [ref=e19]:
+            - search [ref=e20]:
+              - textbox "Search input" [ref=e21]:
+                - textbox "Suche" [ref=e22]
+                - button "" [ref=e24] [cursor=pointer]:
+                  - generic [ref=e25]: 
+          - listitem [ref=e26]:
+            - button "Deutsch" [ref=e27] [cursor=pointer]
+            - text: 
+          - listitem [ref=e28]:
+            - link "Login" [ref=e29] [cursor=pointer]:
+              - /url: https://my.timocom.com/?__hstc=257810580.2a8a4c240264dd53725500d44c3a4ed3.1782761954038.1782761954038.1782761954038.1&__hssc=257810580.3.1782761954038&__hsfp=30f3c3361161d2ae6563027747f8787f
+  - main [ref=e30]:
+    - link "TIMOCOM_Marketplace_header_xl Der TIMOCOM Road Freight Marketplace Mit unserer Logistiksoftware immer die passenden Partner finden Jetzt kostenlos testen" [ref=e35] [cursor=pointer]:
+      - /url: /registrierung
+      - generic [ref=e36]:
+        - img "TIMOCOM_Marketplace_header_xl" [ref=e40]
+        - generic [ref=e44]:
+          - heading "Der TIMOCOM Road Freight Marketplace" [level=1] [ref=e45]
+          - paragraph [ref=e47]: Mit unserer Logistiksoftware immer die passenden Partner finden
+          - generic [ref=e49]: Jetzt kostenlos testen
+    - navigation "breadcrumb" [ref=e54]:
+      - list "Breadcrumb navigation" [ref=e56]:
+        - listitem [ref=e57]:
+          - link "TIMOCOM Deutschland" [ref=e58] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=e59]: /
+        - listitem [ref=e60]:
+          - link "Services" [ref=e61] [cursor=pointer]:
+            - /url: /services
+    - generic [ref=e62]:
+      - generic [ref=e65]:
+        - img "timocom marktplatz services" [ref=e73]
+        - generic [ref=e80]:
+          - heading "Was ist der TIMOCOM Road Freight Marketplace?" [level=2] [ref=e81]
+          - paragraph [ref=e82]: Der TIMOCOM Road Freight Marketplace gehört zu den größten Logistiknetzwerken Europas und ist ideal für Unternehmen, die nach effizienten Transportlösungen und neuen Partnerschaften suchen. Mit unserer benutzerfreundlichen Logistiksoftware finden Sie schnell und unkompliziert zuverlässige Transportpartner aus einem umfassenden, geprüften Netzwerk. Profitieren Sie von einer besseren Auslastung Ihrer Flotte, pünktlichen Lieferungen und optimierten logistischen Prozessen. So stärken Sie das Vertrauen Ihrer Kunden, bauen langfristige Partnerschaften auf und erweitern mühelos Ihr bestehendes Netzwerk – für nachhaltigen Erfolg und eine zukunftssichere Logistik.
+          - paragraph [ref=e83]:
+            - link "Vorteile Entdecken " [ref=e84] [cursor=pointer]:
+              - /url: https://go.timocom.com/timocom-richtig-nutzen?__hstc=257810580.2a8a4c240264dd53725500d44c3a4ed3.1782761954038.1782761954038.1782761954038.1&__hssc=257810580.3.1782761954038&__hsfp=30f3c3361161d2ae6563027747f8787f
+      - generic [ref=e87]:
+        - link "Nahtlose Integration für optimierte Prozesse Auf Wunsch dockt sich unser umfassendes Logistik Tool auch nahtlos an Ihr bestehendes ERP- oder Transportmanagement System (TMS) an, um Arbeitsabläufe zu automatisieren und noch mehr Zeit und Kosten zu sparen. So können Sie beispielsweise unsere Frachtenbörse direkt aus Ihrer eigenen Logistiksoftware heraus nutzen. Ob Verlader, Spediteur oder Frachtführer – optimieren Sie Ihre Logistik und finden Sie zu jeder Zeit die richtigen Partner mit unserem Road Freight Marketplace! Jetzt kostenlos testen" [ref=e89] [cursor=pointer]:
+          - /url: /registrierung
+          - generic [ref=e94]:
+            - generic [ref=e95]:
+              - heading "Nahtlose Integration für optimierte Prozesse" [level=3] [ref=e96]
+              - paragraph [ref=e97]: Auf Wunsch dockt sich unser umfassendes Logistik Tool auch nahtlos an Ihr bestehendes ERP- oder Transportmanagement System (TMS) an, um Arbeitsabläufe zu automatisieren und noch mehr Zeit und Kosten zu sparen. So können Sie beispielsweise unsere Frachtenbörse direkt aus Ihrer eigenen Logistiksoftware heraus nutzen.
+              - paragraph [ref=e98]: Ob Verlader, Spediteur oder Frachtführer – optimieren Sie Ihre Logistik und finden Sie zu jeder Zeit die richtigen Partner mit unserem Road Freight Marketplace!
+            - generic [ref=e100]: Jetzt kostenlos testen
+        - img "Marketplace_Services_01" [ref=e108]
+      - generic [ref=e110]:
+        - heading "Warum ist unser Logistik Tool die beste Wahl für Ihr Unternehmen?" [level=2] [ref=e113]
+        - generic [ref=e116]:
+          - generic [ref=e118]:
+            - img "TC_FreightOffer_2" [ref=e123]
+            - generic [ref=e126]:
+              - heading "Bis zu 1 Millionen" [level=3] [ref=e127]
+              - paragraph [ref=e128]: internationale Fracht- und Laderaumangebote täglich
+          - generic [ref=e130]:
+            - img "TC_Users_2" [ref=e135]
+            - generic [ref=e138]:
+              - heading "> 156.000" [level=3] [ref=e139]
+              - paragraph [ref=e140]: Nutzer aus ganz Europa
+          - generic [ref=e142]:
+            - img "TC_order_2" [ref=e147]
+            - generic [ref=e150]:
+              - heading ">355.000" [level=3] [ref=e151]
+              - paragraph [ref=e152]: Transportaufträge pro Jahr
+          - generic [ref=e154]:
+            - img "TC_telematik_2" [ref=e159]
+            - generic [ref=e162]:
+              - heading "299" [level=3] [ref=e163]
+              - paragraph [ref=e164]: integrierte Telematik-Anbieter
+      - heading "Finden Sie die passenden Services für Ihre Ziele und Anforderungen" [level=2] [ref=e170]
+      - generic [ref=e176]:
+        - generic [ref=e177] [cursor=pointer]:
+          - img [ref=e182]
+          - generic [ref=e186]: Transport Exchange
+        - generic [ref=e187]:
+          - img [ref=e192]
+          - generic [ref=e196]: Transportation Visibility
+        - generic [ref=e197]:
+          - img [ref=e202]
+          - generic [ref=e204]: Security & Payments
+        - generic [ref=e205]:
+          - img [ref=e210]
+          - generic [ref=e213]: Connect
+      - generic [ref=e216]:
+        - generic [ref=e219]:
+          - generic [ref=e222]:
+            - heading "Schnelle und einfache Auftragsvergabe" [level=3] [ref=e223]
+            - paragraph [ref=e224]: "Finden Sie in einem der größten Logistiknetzwerke sofort die passenden Partner für Ihre Transportaufträge. Egal ob Sie Leerfahrten vermeiden und Ihre Auslastung steigern, saisonale Spitzen und spontane Aufträge mit neuen Partnern auffangen oder mit bestehenden Dienstleistern noch effizienter zusammenarbeiten möchten: Optimieren Sie mit dem Road Freight Marketplace Ihre gesamte Transportlogistik."
+          - generic [ref=e227]:
+            - 'link "Frachten- und Laderaumbörse: Finden Sie zu jeder Zeit das passende Fracht- oder Laderaumangebot. Mehr erfahren >" [ref=e229] [cursor=pointer]':
+              - /url: /services/frachtenboerse
+              - generic [ref=e231]:
+                - figure [ref=e235]:
+                  - img "Services-Freight" [ref=e239]
+                - generic [ref=e241]:
+                  - heading "Frachten- und Laderaumbörse:" [level=2] [ref=e242]
+                  - generic [ref=e243]:
+                    - paragraph [ref=e244]: Finden Sie zu jeder Zeit das passende Fracht- oder Laderaumangebot.
+                    - generic [ref=e246]: Mehr erfahren >
+            - 'link "Geschlossene Frachtenbörse: Vergeben Sie Aufträge an ein exklusives Netzwerk und langfristige Partner. Mehr erfahren >" [ref=e248] [cursor=pointer]':
+              - /url: /services/frachtenboerse/geschlossene-frachtenboerse
+              - generic [ref=e250]:
+                - figure [ref=e254]:
+                  - img "Services-closedfreightexchange" [ref=e258]
+                - generic [ref=e260]:
+                  - heading "Geschlossene Frachtenbörse:" [level=2] [ref=e261]
+                  - generic [ref=e262]:
+                    - paragraph [ref=e263]: Vergeben Sie Aufträge an ein exklusives Netzwerk und langfristige Partner.
+                    - generic [ref=e265]: Mehr erfahren >
+            - 'link "Ausschreibungen: Finden Sie die passenden Geschäftspartner für regelmäßige Transporte und erweitern Sie Ihr Netzwerk. Mehr erfahren >" [ref=e267] [cursor=pointer]':
+              - /url: /services/ausschreibungen
+              - generic [ref=e269]:
+                - figure [ref=e273]:
+                  - img "Services-tenders" [ref=e277]
+                - generic [ref=e279]:
+                  - heading "Ausschreibungen:" [level=2] [ref=e280]
+                  - generic [ref=e281]:
+                    - paragraph [ref=e282]: Finden Sie die passenden Geschäftspartner für regelmäßige Transporte und erweitern Sie Ihr Netzwerk.
+                    - generic [ref=e284]: Mehr erfahren >
+            - 'link "Lagerbörse: Finden Sie flexibel verfügbare Lagerflächen in ganz Europa. Mehr erfahren >" [ref=e286] [cursor=pointer]':
+              - /url: /services/lager
+              - generic [ref=e288]:
+                - figure [ref=e292]:
+                  - img "Services-warehouse" [ref=e296]
+                - generic [ref=e298]:
+                  - heading "Lagerbörse:" [level=2] [ref=e299]
+                  - generic [ref=e300]:
+                    - paragraph [ref=e301]: Finden Sie flexibel verfügbare Lagerflächen in ganz Europa.
+                    - generic [ref=e303]: Mehr erfahren >
+            - 'link "Transportaufträge: Verwalten und bearbeiten Sie Ihre Transportaufträge unkompliziert in nur einem System. Mehr erfahren >" [ref=e305] [cursor=pointer]':
+              - /url: /services/transportauftraege
+              - generic [ref=e307]:
+                - figure [ref=e311]:
+                  - img "Services-transport-orders" [ref=e315]
+                - generic [ref=e317]:
+                  - heading "Transportaufträge:" [level=2] [ref=e318]
+                  - generic [ref=e319]:
+                    - paragraph [ref=e320]: Verwalten und bearbeiten Sie Ihre Transportaufträge unkompliziert in nur einem System.
+                    - generic [ref=e322]: Mehr erfahren >
+        - text:      
+      - generic [ref=e324]:
+        - heading "Was unsere Kunden über uns sagen" [level=2] [ref=e328]
+        - generic [ref=e329]:
+          - img "IBIS-Andrea-Schumm_foto" [ref=e337]
+          - paragraph [ref=e345]:
+            - text: "\"Mit dem TIMOCOM Marktplatz wird die Suche nach freiem Frachtraum und Spediteuren erleichtert und wir sparen sehr viel Zeit.\""
+            - strong [ref=e346]: Andrea Schumm, Kaufmännische Leitung von IBIS Backwaren
+      - generic [ref=e348]:
+        - heading "Road Freight Solutions für Ihre Anforderungen" [level=2] [ref=e351]
+        - generic [ref=e352]:
+          - link "timocom verlader Verlader • Großes Logistiknetzwerk an verifizierten Geschäftspartnern • Höchstmögliche Sicherheit durch strikte Schutzmaßnahmen • Zeitersparnis bei der Transportvergabe und digitalen Auftragsabwicklung Mehr erfahren >" [ref=e354] [cursor=pointer]:
+            - /url: /services/verlader
+            - generic [ref=e358]:
+              - img "timocom verlader" [ref=e362]
+              - generic [ref=e363]:
+                - generic [ref=e364]:
+                  - heading "Verlader" [level=3] [ref=e365]
+                  - list [ref=e366]:
+                    - listitem [ref=e367]: • Großes Logistiknetzwerk an verifizierten Geschäftspartnern
+                    - listitem [ref=e368]: • Höchstmögliche Sicherheit durch strikte Schutzmaßnahmen
+                    - listitem [ref=e369]: • Zeitersparnis bei der Transportvergabe und digitalen Auftragsabwicklung
+                - generic [ref=e371]: Mehr erfahren >
+          - link "timocom Spediteure Spediteure • Vertrauenswürdiges Netzwerk an verifizierten Partnern • Anbindung an zahlreiche TMS- und ERP-Systeme • Inkasso-Service Mehr erfahren >" [ref=e373] [cursor=pointer]:
+            - /url: /services/spediteure
+            - generic [ref=e377]:
+              - img "timocom Spediteure" [ref=e381]
+              - generic [ref=e382]:
+                - generic [ref=e383]:
+                  - heading "Spediteure" [level=3] [ref=e384]
+                  - list [ref=e385]:
+                    - listitem [ref=e386]: • Vertrauenswürdiges Netzwerk an verifizierten Partnern
+                    - listitem [ref=e387]: • Anbindung an zahlreiche TMS- und ERP-Systeme
+                    - listitem [ref=e388]: • Inkasso-Service
+                - generic [ref=e390]: Mehr erfahren >
+          - link "timocom Frachtfuehrer Frachtführer • Inkasso International • Einfache und schnelle Routenplanung • Flatrate-Preismodell Mehr erfahren >" [ref=e392] [cursor=pointer]:
+            - /url: /services/frachtfuehrer
+            - generic [ref=e396]:
+              - img "timocom Frachtfuehrer" [ref=e400]
+              - generic [ref=e401]:
+                - generic [ref=e402]:
+                  - heading "Frachtführer" [level=3] [ref=e403]
+                  - list [ref=e404]:
+                    - listitem [ref=e405]: • Inkasso International
+                    - listitem [ref=e406]: • Einfache und schnelle Routenplanung
+                    - listitem [ref=e407]: • Flatrate-Preismodell
+                - generic [ref=e409]: Mehr erfahren >
+      - generic [ref=e411]:
+        - heading "TIMOCOM ist nur 3 Schritte entfernt" [level=2] [ref=e414]
+        - generic [ref=e415]:
+          - generic [ref=e420]: Your browser does not seem to support this video. We apologize for the inconvenience.
+          - link "Registrierung abschließen Unternehmensprüfung Zugang TIMOCOM Marketplace Jetzt kostenlos testen" [ref=e422] [cursor=pointer]:
+            - /url: /registrierung
+            - generic [ref=e427]:
+              - list [ref=e429]:
+                - listitem [ref=e430]:
+                  - generic [ref=e431]: Registrierung abschließen
+                - listitem [ref=e432]:
+                  - generic [ref=e433]: Unternehmensprüfung
+                - listitem [ref=e434]:
+                  - generic [ref=e435]: Zugang TIMOCOM Marketplace
+              - generic [ref=e437]: Jetzt kostenlos testen
+  - contentinfo [ref=e438]:
+    - generic [ref=e439]:
+      - navigation "Main footer navigation" [ref=e440]:
+        - generic "Navigation categories" [ref=e441]:
+          - list "categoryLinks" [ref=e442]:
+            - listitem [ref=e443]:
+              - link "Services" [ref=e444] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=e445]:
+              - link "Frachtenbörse" [ref=e446] [cursor=pointer]:
+                - /url: /services/frachtenboerse
+            - listitem [ref=e447]:
+              - link "Geschlossene Frachtenbörse" [ref=e448] [cursor=pointer]:
+                - /url: /services/frachtenboerse/geschlossene-frachtenboerse
+            - listitem [ref=e449]:
+              - link "Live-Sendungsverfolgung" [ref=e450] [cursor=pointer]:
+                - /url: /services/live-sendungsverfolgung
+            - listitem [ref=e451]:
+              - link "Routen & Kosten" [ref=e452] [cursor=pointer]:
+                - /url: /services/routen-kosten
+            - listitem [ref=e453]:
+              - link "Schnittstellen" [ref=e454] [cursor=pointer]:
+                - /url: /services/schnittstellen
+            - listitem [ref=e455]:
+              - link "Business Partner Check" [ref=e456] [cursor=pointer]:
+                - /url: /services/business-partner-check
+        - generic "Navigation categories" [ref=e457]:
+          - list "categoryLinks" [ref=e458]:
+            - listitem
+            - listitem [ref=e459]:
+              - link "Ausschreibungen" [ref=e460] [cursor=pointer]:
+                - /url: /services/ausschreibungen
+            - listitem [ref=e461]:
+              - link "Tracking" [ref=e462] [cursor=pointer]:
+                - /url: /services/tracking
+            - listitem [ref=e463]:
+              - link "Transportaufträge" [ref=e464] [cursor=pointer]:
+                - /url: /services/transportauftraege
+            - listitem [ref=e465]:
+              - link "Lager" [ref=e466] [cursor=pointer]:
+                - /url: /services/lager
+            - listitem [ref=e467]:
+              - link "Inkasso International" [ref=e468] [cursor=pointer]:
+                - /url: /services/inkasso-international
+        - generic "Navigation categories" [ref=e469]:
+          - list "categoryLinks" [ref=e470]:
+            - listitem [ref=e471]:
+              - link "Ressourcen" [ref=e472] [cursor=pointer]:
+                - /url: /ressourcen
+            - listitem [ref=e473]:
+              - link "Blog" [ref=e474] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=e475]:
+              - link "Newsroom" [ref=e476] [cursor=pointer]:
+                - /url: /unternehmen/newsroom
+            - listitem [ref=e477]:
+              - link "Transportbarometer" [ref=e478] [cursor=pointer]:
+                - /url: /services/transportbarometer
+            - listitem [ref=e479]:
+              - link "Transportlexikon" [ref=e480] [cursor=pointer]:
+                - /url: /lexicon/transportlexikon/
+            - listitem [ref=e481]:
+              - link "Webinars " [ref=e482] [cursor=pointer]:
+                - /url: https://go.timocom.com/de/eventswebinars?__hstc=257810580.2a8a4c240264dd53725500d44c3a4ed3.1782761954038.1782761954038.1782761954038.1&__hssc=257810580.3.1782761954038&__hsfp=30f3c3361161d2ae6563027747f8787f
+                - text: Webinars
+                - generic [ref=e483]: 
+            - listitem [ref=e484]:
+              - link "Einblick in die Frachtenbörse" [ref=e485] [cursor=pointer]:
+                - /url: /ressourcen/fracht-ubersicht
+            - listitem [ref=e486]:
+              - link "LKW Fahrverbot" [ref=e487] [cursor=pointer]:
+                - /url: /lkw-fahrverbot
+        - generic "Navigation categories" [ref=e488]:
+          - list "categoryLinks" [ref=e489]:
+            - listitem [ref=e490]:
+              - link "Unternehmen" [ref=e491] [cursor=pointer]:
+                - /url: /unternehmen
+            - listitem [ref=e492]:
+              - link "Kunden werben Kunden" [ref=e493] [cursor=pointer]:
+                - /url: /unternehmen/kunden-werben-kunden
+            - listitem [ref=e494]:
+              - link "Success Stories" [ref=e495] [cursor=pointer]:
+                - /url: /unternehmen/success-stories
+            - listitem [ref=e496]:
+              - link "Karriere " [ref=e497] [cursor=pointer]:
+                - /url: https://karriere.timocom.de
+                - text: Karriere
+                - generic [ref=e498]: 
+            - listitem [ref=e499]:
+              - link "Goodies " [ref=e500] [cursor=pointer]:
+                - /url: https://timocom.myspreadshop.de/
+                - text: Goodies
+                - generic [ref=e501]: 
+        - generic "Navigation categories" [ref=e502]:
+          - list "categoryLinks" [ref=e503]:
+            - listitem [ref=e504]:
+              - link "Support" [ref=e505] [cursor=pointer]:
+                - /url: /hilfe-center
+            - listitem [ref=e506]:
+              - link "Kontakt" [ref=e507] [cursor=pointer]:
+                - /url: /hilfe-center/kontakt
+        - generic "Navigation categories" [ref=e508]:
+          - list "categoryLinks" [ref=e509]:
+            - listitem [ref=e510]: Rechtliches
+            - listitem [ref=e511]:
+              - link "Impressum" [ref=e512] [cursor=pointer]:
+                - /url: /impressum
+            - listitem [ref=e513]:
+              - link "AGB" [ref=e514] [cursor=pointer]:
+                - /url: /agb
+            - listitem [ref=e515]:
+              - link "Datenschutz" [ref=e516] [cursor=pointer]:
+                - /url: /datenschutz
+            - listitem [ref=e517]:
+              - link "Cookie-Einstellungen " [ref=e518] [cursor=pointer]:
+                - /url: "#uc-central-modal-show"
+                - text: Cookie-Einstellungen
+                - generic [ref=e519]: 
+      - generic "Social media links" [ref=e520]:
+        - generic [ref=e521]:
+          - link "" [ref=e522] [cursor=pointer]:
+            - /url: https://www.facebook.com/timocom.de
+            - generic [ref=e523]: 
+          - link "" [ref=e524] [cursor=pointer]:
+            - /url: https://www.youtube.com/user/TIMOCOM
+            - generic [ref=e525]: 
+          - link "" [ref=e526] [cursor=pointer]:
+            - /url: https://www.xing.com/pages/timocom
+            - generic [ref=e527]: 
+          - link "" [ref=e528] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/timocom-gmbh/
+            - generic [ref=e529]: 
+          - link "" [ref=e530] [cursor=pointer]:
+            - /url: https://www.instagram.com/timocom/
+            - generic [ref=e531]: 
+      - generic [ref=e532]: © TIMOCOM GmbH 2026. Alle Rechte vorbehalten
+  - text: 
