@@ -5,5 +5,13 @@ test-results/
 .playwright-mcp/
 .claude/settings.local.json
 .env
+.env.*
+!.env.example
+
+# Playwright Auth State — falls in Zukunft ein Login-Flow (my.timocom.com)
+# hinzukommt, würde diese Datei ein aktives Session-Token enthalten.
+auth.json
+**/auth.json
+
 .DS_Store
 Thumbs.db
